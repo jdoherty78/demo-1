@@ -2,8 +2,8 @@
 
 ## Mammals
 - Humans
-- Felines
-- Canines
+- Felines (cats are useless)
+- Canines (at least they're friendly)
 
 ### Pets
 - Cats
