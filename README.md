@@ -16,6 +16,8 @@
 - Foxes are like red dogs.... but not really
 
 ### Cute animals
-- Sloth
-- Penguin
-- Koala
+- Eoin
+- Declan
+- Asher
+- Adrienne
+- Hannah 'the Hurricaine'
