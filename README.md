@@ -13,7 +13,7 @@
 - Chicken
 - Lambs
 - Ducks
-- Foxes are like ginger colored dogs!
+- Foxes are like red dogs.... but not really
 
 ### Cute animals
 - Sloth
